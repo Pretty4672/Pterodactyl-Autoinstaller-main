@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Bangsano/Pterodactyl-Autoinstaller/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Pretty4672/Pterodactyl-Autoinstaller-main/refs/heads/main/install.sh)
 ```
 
 ## Fitur Tools :
@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/Bangsano/Pterodactyl-Autoinstal
 - Install Tema Enigma
 - Uninstall Tema
 
- (Kode Token : bangsano)
+ (Kode Token : badas)
 
 ## System Support :
 
@@ -32,4 +32,4 @@ bash <(curl -s https://raw.githubusercontent.com/Bangsano/Pterodactyl-Autoinstal
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
-- Created by [ BANG SANO ](https://github.com/Bangsano)
+- Created by [ Pretty ](https://github.com/Pretty4672)
